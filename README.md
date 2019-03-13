@@ -22,7 +22,7 @@ Execute the downloaded script with "ROOT" privileges...
 ```
 01 - Filebeat version that you need to instal
 02 - Which local file that need to be read out for shipping logs to
-03 - You will have to provide a STRING which could be any name and that will take as a TAG to refer the logs before they are sent out
-04 - Where should the output logs should be reach to(Destination) - two options: logstash or redis
+03 - You will have to provide a STRING - which could be any name - and that will take as a TAG to refer the logs before they are sent out
+04 - Where should the output logs be reached to(Destination) - two options: logstash or redis
 05 - IP addresses and a TCP port for the above slected destination.
 ```
