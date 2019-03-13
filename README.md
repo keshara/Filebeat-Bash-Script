@@ -8,7 +8,7 @@ This will help to setup and start filebeat in a automated fashion while going th
 
 ### Download the Script and set enough permision on it
 ```
-# cd /root && wget https://raw.githubusercontent.com/keshara/openvpn-for-ubuntu-1804/master/openvpn_install.sh
+# cd /root && wget https://raw.githubusercontent.com/keshara/Filebeat-Bash-Script/master/filebeat_install.sh
 # chmod 777 filebeat_install.sh
 ```
 
